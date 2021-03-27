@@ -1,0 +1,11 @@
+C:\Users\pearw\source\repos\dowhile\dowhile\bin\Debug\netcoreapp3.0\dowhile.exe
+C:\Users\pearw\source\repos\dowhile\dowhile\bin\Debug\netcoreapp3.0\dowhile.deps.json
+C:\Users\pearw\source\repos\dowhile\dowhile\bin\Debug\netcoreapp3.0\dowhile.runtimeconfig.json
+C:\Users\pearw\source\repos\dowhile\dowhile\bin\Debug\netcoreapp3.0\dowhile.runtimeconfig.dev.json
+C:\Users\pearw\source\repos\dowhile\dowhile\bin\Debug\netcoreapp3.0\dowhile.dll
+C:\Users\pearw\source\repos\dowhile\dowhile\bin\Debug\netcoreapp3.0\dowhile.pdb
+C:\Users\pearw\source\repos\dowhile\dowhile\obj\Debug\netcoreapp3.0\dowhile.csprojAssemblyReference.cache
+C:\Users\pearw\source\repos\dowhile\dowhile\obj\Debug\netcoreapp3.0\dowhile.AssemblyInfoInputs.cache
+C:\Users\pearw\source\repos\dowhile\dowhile\obj\Debug\netcoreapp3.0\dowhile.AssemblyInfo.cs
+C:\Users\pearw\source\repos\dowhile\dowhile\obj\Debug\netcoreapp3.0\dowhile.dll
+C:\Users\pearw\source\repos\dowhile\dowhile\obj\Debug\netcoreapp3.0\dowhile.pdb
