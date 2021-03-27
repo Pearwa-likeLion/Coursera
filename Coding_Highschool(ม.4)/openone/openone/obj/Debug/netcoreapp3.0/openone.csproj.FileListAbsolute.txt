@@ -1,0 +1,11 @@
+C:\Users\pearw\source\repos\openone\openone\bin\Debug\netcoreapp3.0\openone.exe
+C:\Users\pearw\source\repos\openone\openone\bin\Debug\netcoreapp3.0\openone.deps.json
+C:\Users\pearw\source\repos\openone\openone\bin\Debug\netcoreapp3.0\openone.runtimeconfig.json
+C:\Users\pearw\source\repos\openone\openone\bin\Debug\netcoreapp3.0\openone.runtimeconfig.dev.json
+C:\Users\pearw\source\repos\openone\openone\bin\Debug\netcoreapp3.0\openone.dll
+C:\Users\pearw\source\repos\openone\openone\bin\Debug\netcoreapp3.0\openone.pdb
+C:\Users\pearw\source\repos\openone\openone\obj\Debug\netcoreapp3.0\openone.csprojAssemblyReference.cache
+C:\Users\pearw\source\repos\openone\openone\obj\Debug\netcoreapp3.0\openone.AssemblyInfoInputs.cache
+C:\Users\pearw\source\repos\openone\openone\obj\Debug\netcoreapp3.0\openone.AssemblyInfo.cs
+C:\Users\pearw\source\repos\openone\openone\obj\Debug\netcoreapp3.0\openone.dll
+C:\Users\pearw\source\repos\openone\openone\obj\Debug\netcoreapp3.0\openone.pdb

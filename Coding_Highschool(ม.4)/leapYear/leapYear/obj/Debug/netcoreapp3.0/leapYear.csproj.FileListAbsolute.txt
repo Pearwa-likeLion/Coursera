@@ -1,0 +1,11 @@
+C:\Users\pearw\source\repos\leapYear\leapYear\bin\Debug\netcoreapp3.0\leapYear.exe
+C:\Users\pearw\source\repos\leapYear\leapYear\bin\Debug\netcoreapp3.0\leapYear.deps.json
+C:\Users\pearw\source\repos\leapYear\leapYear\bin\Debug\netcoreapp3.0\leapYear.runtimeconfig.json
+C:\Users\pearw\source\repos\leapYear\leapYear\bin\Debug\netcoreapp3.0\leapYear.runtimeconfig.dev.json
+C:\Users\pearw\source\repos\leapYear\leapYear\bin\Debug\netcoreapp3.0\leapYear.dll
+C:\Users\pearw\source\repos\leapYear\leapYear\bin\Debug\netcoreapp3.0\leapYear.pdb
+C:\Users\pearw\source\repos\leapYear\leapYear\obj\Debug\netcoreapp3.0\leapYear.csprojAssemblyReference.cache
+C:\Users\pearw\source\repos\leapYear\leapYear\obj\Debug\netcoreapp3.0\leapYear.AssemblyInfoInputs.cache
+C:\Users\pearw\source\repos\leapYear\leapYear\obj\Debug\netcoreapp3.0\leapYear.AssemblyInfo.cs
+C:\Users\pearw\source\repos\leapYear\leapYear\obj\Debug\netcoreapp3.0\leapYear.dll
+C:\Users\pearw\source\repos\leapYear\leapYear\obj\Debug\netcoreapp3.0\leapYear.pdb

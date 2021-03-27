@@ -1,0 +1,11 @@
+C:\Users\pearw\source\repos\switch\switch\obj\Debug\netcoreapp3.0\switch.csprojAssemblyReference.cache
+C:\Users\pearw\source\repos\switch\switch\obj\Debug\netcoreapp3.0\switch.AssemblyInfoInputs.cache
+C:\Users\pearw\source\repos\switch\switch\obj\Debug\netcoreapp3.0\switch.AssemblyInfo.cs
+C:\Users\pearw\source\repos\switch\switch\bin\Debug\netcoreapp3.0\switch.exe
+C:\Users\pearw\source\repos\switch\switch\bin\Debug\netcoreapp3.0\switch.deps.json
+C:\Users\pearw\source\repos\switch\switch\bin\Debug\netcoreapp3.0\switch.runtimeconfig.json
+C:\Users\pearw\source\repos\switch\switch\bin\Debug\netcoreapp3.0\switch.runtimeconfig.dev.json
+C:\Users\pearw\source\repos\switch\switch\bin\Debug\netcoreapp3.0\switch.dll
+C:\Users\pearw\source\repos\switch\switch\bin\Debug\netcoreapp3.0\switch.pdb
+C:\Users\pearw\source\repos\switch\switch\obj\Debug\netcoreapp3.0\switch.dll
+C:\Users\pearw\source\repos\switch\switch\obj\Debug\netcoreapp3.0\switch.pdb

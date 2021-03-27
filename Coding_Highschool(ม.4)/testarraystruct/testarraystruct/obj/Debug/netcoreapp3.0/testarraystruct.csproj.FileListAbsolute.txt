@@ -1,0 +1,11 @@
+C:\Users\pearw\source\repos\testarraystruct\testarraystruct\bin\Debug\netcoreapp3.0\testarraystruct.exe
+C:\Users\pearw\source\repos\testarraystruct\testarraystruct\bin\Debug\netcoreapp3.0\testarraystruct.deps.json
+C:\Users\pearw\source\repos\testarraystruct\testarraystruct\bin\Debug\netcoreapp3.0\testarraystruct.runtimeconfig.json
+C:\Users\pearw\source\repos\testarraystruct\testarraystruct\bin\Debug\netcoreapp3.0\testarraystruct.runtimeconfig.dev.json
+C:\Users\pearw\source\repos\testarraystruct\testarraystruct\bin\Debug\netcoreapp3.0\testarraystruct.dll
+C:\Users\pearw\source\repos\testarraystruct\testarraystruct\bin\Debug\netcoreapp3.0\testarraystruct.pdb
+C:\Users\pearw\source\repos\testarraystruct\testarraystruct\obj\Debug\netcoreapp3.0\testarraystruct.csprojAssemblyReference.cache
+C:\Users\pearw\source\repos\testarraystruct\testarraystruct\obj\Debug\netcoreapp3.0\testarraystruct.AssemblyInfoInputs.cache
+C:\Users\pearw\source\repos\testarraystruct\testarraystruct\obj\Debug\netcoreapp3.0\testarraystruct.AssemblyInfo.cs
+C:\Users\pearw\source\repos\testarraystruct\testarraystruct\obj\Debug\netcoreapp3.0\testarraystruct.dll
+C:\Users\pearw\source\repos\testarraystruct\testarraystruct\obj\Debug\netcoreapp3.0\testarraystruct.pdb
