@@ -1,0 +1,11 @@
+C:\Users\pearw\source\repos\testRandom\testRandom\bin\Debug\netcoreapp3.0\testRandom.exe
+C:\Users\pearw\source\repos\testRandom\testRandom\bin\Debug\netcoreapp3.0\testRandom.deps.json
+C:\Users\pearw\source\repos\testRandom\testRandom\bin\Debug\netcoreapp3.0\testRandom.runtimeconfig.json
+C:\Users\pearw\source\repos\testRandom\testRandom\bin\Debug\netcoreapp3.0\testRandom.runtimeconfig.dev.json
+C:\Users\pearw\source\repos\testRandom\testRandom\bin\Debug\netcoreapp3.0\testRandom.dll
+C:\Users\pearw\source\repos\testRandom\testRandom\bin\Debug\netcoreapp3.0\testRandom.pdb
+C:\Users\pearw\source\repos\testRandom\testRandom\obj\Debug\netcoreapp3.0\testRandom.csprojAssemblyReference.cache
+C:\Users\pearw\source\repos\testRandom\testRandom\obj\Debug\netcoreapp3.0\testRandom.AssemblyInfoInputs.cache
+C:\Users\pearw\source\repos\testRandom\testRandom\obj\Debug\netcoreapp3.0\testRandom.AssemblyInfo.cs
+C:\Users\pearw\source\repos\testRandom\testRandom\obj\Debug\netcoreapp3.0\testRandom.dll
+C:\Users\pearw\source\repos\testRandom\testRandom\obj\Debug\netcoreapp3.0\testRandom.pdb

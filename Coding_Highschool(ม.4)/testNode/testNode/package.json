@@ -1,0 +1,9 @@
+{
+  "name": "test-node",
+  "version": "0.0.0",
+  "description": "testNode",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

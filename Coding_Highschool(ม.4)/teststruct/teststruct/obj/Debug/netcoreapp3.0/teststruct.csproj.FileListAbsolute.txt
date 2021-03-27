@@ -1,0 +1,11 @@
+C:\Users\pearw\source\repos\teststruct\teststruct\obj\Debug\netcoreapp3.0\teststruct.csprojAssemblyReference.cache
+C:\Users\pearw\source\repos\teststruct\teststruct\obj\Debug\netcoreapp3.0\teststruct.AssemblyInfoInputs.cache
+C:\Users\pearw\source\repos\teststruct\teststruct\obj\Debug\netcoreapp3.0\teststruct.AssemblyInfo.cs
+C:\Users\pearw\source\repos\teststruct\teststruct\bin\Debug\netcoreapp3.0\teststruct.exe
+C:\Users\pearw\source\repos\teststruct\teststruct\bin\Debug\netcoreapp3.0\teststruct.deps.json
+C:\Users\pearw\source\repos\teststruct\teststruct\bin\Debug\netcoreapp3.0\teststruct.runtimeconfig.json
+C:\Users\pearw\source\repos\teststruct\teststruct\bin\Debug\netcoreapp3.0\teststruct.runtimeconfig.dev.json
+C:\Users\pearw\source\repos\teststruct\teststruct\bin\Debug\netcoreapp3.0\teststruct.dll
+C:\Users\pearw\source\repos\teststruct\teststruct\bin\Debug\netcoreapp3.0\teststruct.pdb
+C:\Users\pearw\source\repos\teststruct\teststruct\obj\Debug\netcoreapp3.0\teststruct.dll
+C:\Users\pearw\source\repos\teststruct\teststruct\obj\Debug\netcoreapp3.0\teststruct.pdb

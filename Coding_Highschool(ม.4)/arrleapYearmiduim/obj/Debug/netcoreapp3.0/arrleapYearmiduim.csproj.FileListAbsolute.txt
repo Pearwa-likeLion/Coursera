@@ -1,0 +1,11 @@
+C:\Users\pearw\source\repos\arrleapYearmiduim\arrleapYearmiduim\bin\Debug\netcoreapp3.0\arrleapYearmiduim.exe
+C:\Users\pearw\source\repos\arrleapYearmiduim\arrleapYearmiduim\bin\Debug\netcoreapp3.0\arrleapYearmiduim.deps.json
+C:\Users\pearw\source\repos\arrleapYearmiduim\arrleapYearmiduim\bin\Debug\netcoreapp3.0\arrleapYearmiduim.runtimeconfig.json
+C:\Users\pearw\source\repos\arrleapYearmiduim\arrleapYearmiduim\bin\Debug\netcoreapp3.0\arrleapYearmiduim.runtimeconfig.dev.json
+C:\Users\pearw\source\repos\arrleapYearmiduim\arrleapYearmiduim\bin\Debug\netcoreapp3.0\arrleapYearmiduim.dll
+C:\Users\pearw\source\repos\arrleapYearmiduim\arrleapYearmiduim\bin\Debug\netcoreapp3.0\arrleapYearmiduim.pdb
+C:\Users\pearw\source\repos\arrleapYearmiduim\arrleapYearmiduim\obj\Debug\netcoreapp3.0\arrleapYearmiduim.csprojAssemblyReference.cache
+C:\Users\pearw\source\repos\arrleapYearmiduim\arrleapYearmiduim\obj\Debug\netcoreapp3.0\arrleapYearmiduim.AssemblyInfoInputs.cache
+C:\Users\pearw\source\repos\arrleapYearmiduim\arrleapYearmiduim\obj\Debug\netcoreapp3.0\arrleapYearmiduim.AssemblyInfo.cs
+C:\Users\pearw\source\repos\arrleapYearmiduim\arrleapYearmiduim\obj\Debug\netcoreapp3.0\arrleapYearmiduim.dll
+C:\Users\pearw\source\repos\arrleapYearmiduim\arrleapYearmiduim\obj\Debug\netcoreapp3.0\arrleapYearmiduim.pdb

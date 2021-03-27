@@ -1,0 +1,3 @@
+C:\Users\pearw\source\repos\Pointertest\Pointertest\obj\Debug\netcoreapp3.0\Pointertest.csprojAssemblyReference.cache
+C:\Users\pearw\source\repos\Pointertest\Pointertest\obj\Debug\netcoreapp3.0\Pointertest.AssemblyInfoInputs.cache
+C:\Users\pearw\source\repos\Pointertest\Pointertest\obj\Debug\netcoreapp3.0\Pointertest.AssemblyInfo.cs
